@@ -17,8 +17,8 @@ He manages his **sub-brands and startup projects** under his umbrella company, *
 
 ## 💻 Skills
 **Backend:** Laravel, PHP, MySQL, Queue systems  
-**Frontend:** React, Inertia.js, HTML, CSS, Tailwind, Bootstrap  
-**Tools & Others:** Composer, Git  
+**Frontend:** React, Inertia.js, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap  
+**Tools & Others:** WebSocket, Laravel Reverb, Composer, Git  
 
 ---
 
