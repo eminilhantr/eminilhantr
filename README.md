@@ -11,7 +11,7 @@ Trained by experienced actors, he developed himself in **acting, singing, and th
 Since 2016, he has provided consultancy and services in **Software, Media, Export, Tourism, and International Corporations**.  
 He manages his **sub-brands and startup projects** under his umbrella company, **Emin LLC**.  
 
-<img src="https://eminilhan.com/wp-content/uploads/2025/08/beyaz-logo.png" alt="Emin's Signature" width="120" style="margin-top:10px;"/>
+<img src="https://eminilhan.com/wp-content/uploads/2025/08/Siyah-kopya-1.png" alt="Emin's Signature" width="150" style="margin-top:10px;"/>
 
 ---
 
