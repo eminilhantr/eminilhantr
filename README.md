@@ -16,17 +16,17 @@ He manages his **sub-brands and startup projects** under his umbrella company, *
 ---
 
 ## 💻 Skills
-**Backend:** Laravel (Advanced), Modern PHP 8.x, MySQL, Redis, Queue Systems, Event Broadcasting
-**Frontend:** React 19, Inertia.js 2, TypeScript, Modern CSS (Tailwind)
-**Architecture:** Modular Packages, Event-Driven Design, Real-time Systems
-**Tools & Others:** WebSocket, Laravel Reverb, Composer, Git  
+- **Backend:** Laravel (Advanced), Modern PHP 8.x, MySQL, Redis, Queue Systems, Event Broadcasting
+- **Frontend:** React 19, Inertia.js 2, TypeScript, Modern CSS (Tailwind)
+- **Architecture:** Modular Packages, Event-Driven Design, Real-time Systems
+- **Tools & Others:** WebSocket, Laravel Reverb, Composer, Git  
 
 ---
 
 ## 🚀 Projects
-🔐 EminSecurity – Enterprise security suite (15+ modules, real-time monitoring)
-🌍 EminLang – Multi-language package with advanced localization  
-⚡ EminJobs – Queue systems with real-time UI synchronization (Bridges Laravel's gap with Node.js real-time capabilities)
+- 🔐 EminSecurity – Enterprise security suite (15+ modules, real-time monitoring)
+- 🌍 EminLang – Multi-language package with advanced localization  
+- ⚡ EminJobs – Queue systems with real-time UI synchronization (Bridges Laravel's gap with Node.js real-time capabilities)
 
 ---
 
